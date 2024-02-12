@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tarea #2 Tienda de Zapatos/1.0.0": {
+        "runtime": {
+          "Tarea #2 Tienda de Zapatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea #2 Tienda de Zapatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

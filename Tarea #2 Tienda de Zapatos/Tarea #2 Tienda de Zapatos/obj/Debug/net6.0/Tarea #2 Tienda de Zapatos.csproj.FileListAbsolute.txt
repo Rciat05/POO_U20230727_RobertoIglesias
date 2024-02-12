@@ -1,0 +1,15 @@
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\bin\Debug\net6.0\Tarea #2 Tienda de Zapatos.exe
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\bin\Debug\net6.0\Tarea #2 Tienda de Zapatos.deps.json
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\bin\Debug\net6.0\Tarea #2 Tienda de Zapatos.runtimeconfig.json
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\bin\Debug\net6.0\Tarea #2 Tienda de Zapatos.dll
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\bin\Debug\net6.0\Tarea #2 Tienda de Zapatos.pdb
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\Tarea #2 Tienda de Zapatos.csproj.AssemblyReference.cache
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\Tarea #2 Tienda de Zapatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\Tarea #2 Tienda de Zapatos.AssemblyInfoInputs.cache
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\Tarea #2 Tienda de Zapatos.AssemblyInfo.cs
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\Tarea #2 Tienda de Zapatos.csproj.CoreCompileInputs.cache
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\Tarea #2 Tienda de Zapatos.dll
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\refint\Tarea #2 Tienda de Zapatos.dll
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\Tarea #2 Tienda de Zapatos.pdb
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\Tarea #2 Tienda de Zapatos.genruntimeconfig.cache
+C:\Desktop\Escritorio 2024\POO\Tareas\Tarea #2 Tienda de Zapatos\Tarea #2 Tienda de Zapatos\obj\Debug\net6.0\ref\Tarea #2 Tienda de Zapatos.dll
